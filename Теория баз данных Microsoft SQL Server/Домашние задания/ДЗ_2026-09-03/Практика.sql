@@ -1,5 +1,4 @@
 -- Переход от MySQL и PostgreSQL к MS SQL Server.
--- Мингазов Александр Рашидович, 9/2-РПО-24/1.
 -- Запускать целиком в SSMS или sqlcmd.
 
 USE master;
